@@ -1,0 +1,157 @@
+
+   body
+   {
+     margin: 0px;
+   }
+   
+h1,h2
+   { 
+    text-align: center;
+    color: rgb(4, 46, 4);
+    font-family: "comic sans ms" , sans-serif;
+    font-weight: bold;
+   }
+  
+table,td,th
+    {
+    border: 1px solid white;
+    color: black; 
+    background-color: beige;
+    }
+    
+thead,tfoot 
+    {
+     background-color: rgb(15, 173, 49);
+     color: rgb(2, 39, 18);
+     }
+.align_tableau
+   {
+    margin-top:10px;
+    margin-left:40%;
+    margin-right:50%;
+    width:100%;
+    }
+
+.image
+   {
+    float: right;
+    padding: 40px 40px;
+    margin: 40px;
+   }
+.image1
+   {
+    float: left;
+    padding: 40px 40px;
+    margin: 90px;
+   } 
+.image2
+   {
+    float: right;
+    padding: 40px 40px;
+    margin: 90px;
+   }  
+  
+.header-index 
+    {
+    background-image:  url("img/rest1.jpg") ;
+    background-size: 100% cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 450px;
+    color: floralwhite;
+    font-weight: bold;
+    padding: 5px;
+    font-family: "comic sans Ms" , sans-serif;
+    }
+.header-index h1
+    {
+    color: floralwhite;
+    }    
+.logo
+    {
+    float: left; 
+         
+    }
+.header-menu 
+    {
+    background: linear-gradient(to bottom, rgb(1, 26, 1), rgb(171, 219, 171));
+    color: rgb(2, 39, 2);
+    font-weight: bold;
+    padding: 10px;
+    margin: 0;
+    font-family: 'Lucida Sans' , sans-serif;
+    height: 400px;
+    }
+
+.header-contact 
+    {
+    background-image: url("img/wouter1.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment:  fixed;
+    box-sizing: border-box;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'comic sans MS' , sans-serif;
+    height: 400px;
+    }
+  
+   
+.header-contact h1
+   {
+       color: floralwhite;
+   }      
+.header-h1-menu
+    {
+    text-align: center;
+    color: rgb(198, 243, 204); 
+    font-family: "comic sans MS", sans-serif ;
+    font-size: bold;
+    } 
+
+.header_nav
+    {
+    margin: 20px 0;
+    color: floralwhite;
+    text-align: center; 
+    }  
+
+.header_nav a
+    {
+      display: inline-block;
+      color: inherit;
+      padding: 10px;
+      font-size: 0.8em;
+    } 
+
+.img_menu
+   {
+    display: inline-block;
+    margin: 0 120px;
+    
+   }  
+ 
+.main 
+    {
+    background: floralwhite;
+    color: black;
+    font-size: 1.1em;
+    padding: 10px ;
+    text-align: center;
+    line-height: 1.4; 
+    font-family: "source sans pro", sans-serif;
+    }
+.main p
+    {
+    text-align: justify;
+    }
+.footer
+   {
+    background: rgb(102, 100, 95);
+    color: floralwhite;
+    padding: 10px 10px;
+    text-align: center;
+    height: 100px;
+    }
+    
